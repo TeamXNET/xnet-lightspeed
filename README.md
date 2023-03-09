@@ -47,13 +47,6 @@
             <li><a href="#stream-key">Stream Key</a></li>
         </ul>
     </li>  
-    <li><a href="#help">Help</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#bugs">Bugs</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -292,7 +285,6 @@ Paste the below into the services array and change the url to either the IP or t
 NOTE: You do not need to specify a port.
 
 After restarting OBS you should be able to see your service in the OBS settings Stream pane.
-(Special Thanks to [Glimesh](https://github.com/Glimesh) for these instructions)
 
 ---
 
